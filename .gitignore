@@ -1,0 +1,19 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar diretórios de build
+/build/
+/dist/
+
+# Ignorar arquivos de configuração local
+.env
+
+# Ignorar diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar dependências
+node_modules/
